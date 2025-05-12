@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/pngmonster/3dom-Front
+[submodule "backend"]
+	path = backend
+	url = https://github.com/giicoo/3DOM_Backend
